@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "g0Hl77dx04Y",
+      "name": "Vivek Soni",
+      "email": "vivek123@gmail.com",
+      "phone": "9695733060",
+      "userId": "osUFMJeDcPQ"
+    }
+  ],
+  
+  "users": [
+    {
+      "name": "Ritesh",
+      "email": "riteshsoni35468@gmail.com",
+      "password": "abcdef",
+      "id": "osUFMJeDcPQ"
+    },
+    {
+      "name": "Vivek Soni",
+      "email": "vivek@gmail.com",
+      "password": "vivek@123",
+      "id": "ApOkAxubuuY"
+    },
+    {
+      "name": "Ajay Yadav",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": "I1idA5jGr-k"
+    }
+  ]
+}
